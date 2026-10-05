@@ -31,6 +31,9 @@ I am particularly interested in building machine-learning systems that remain us
 
 ## Links
 
-[Portfolio](https://pathik0007.github.io/portfolio/)
+[Portfolio](https://pathik0007.github.io/portfolio/) ·
+[Google Scholar](https://scholar.google.com/citations?user=ib69qUkAAAAJ&hl=en) ·
+[ORCID](https://orcid.org/0009-0003-5877-0526) ·
+[LinkedIn](https://www.linkedin.com/in/pathik-ahmed-418643149/)
 
 *Live apps run on Render (free tier, so the first load can take up to a minute). Project pages and documentation are hosted on GitHub Pages.*
